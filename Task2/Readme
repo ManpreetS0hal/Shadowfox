@@ -1,4 +1,4 @@
-# Loan approval prediction using ML
+# Loan approval prediction using ML  
 
 This repository contains a project focused on predicting loan approvals using machine learning. The dataset includes features such as Gender, Loan amount, education , credit history, etc. By preprocessing data, exploring relationships, and building a model, this project helps to provide accurate predictions and insights into factors influencing loan approvals.  
 
